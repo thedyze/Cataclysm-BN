@@ -119,10 +119,6 @@ Ultica are planned for the future.
 - American flag displayed as a vehiclepart, specific to BN.
 - Flagpole furniture and vehiclepart for Jolly Roger, content specific to BN.
 
-### External_Tileset_DP_maptiles.png
-
-- Fast travel trail sprite replaced.
-
 ### alternative_mutation_tileset.png
 
 ![](../../../../../../../assets/img/external_tileset/mutation/after.png)
